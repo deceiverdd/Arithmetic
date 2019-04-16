@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DD\\work\\C#Project\\Arithmetic\\Arithmetic.csproj",
+      "projectUniqueName": "D:\\DD\\GitHub\\Arithmetic\\Arithmetic.csproj",
       "projectName": "Arithmetic",
-      "projectPath": "D:\\DD\\work\\C#Project\\Arithmetic\\Arithmetic.csproj",
+      "projectPath": "D:\\DD\\GitHub\\Arithmetic\\Arithmetic.csproj",
       "packagesPath": "C:\\Users\\DD\\.nuget\\packages\\",
-      "outputPath": "D:\\DD\\work\\C#Project\\Arithmetic\\obj\\",
+      "outputPath": "D:\\DD\\GitHub\\Arithmetic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

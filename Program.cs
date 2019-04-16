@@ -6,7 +6,7 @@ namespace Arithmetic
     {
         static void Main(string[] args)
         {
-            Solution_2 s = new Solution_2();
+            Solution_3 s = new Solution_3();
         }
     }
 }
