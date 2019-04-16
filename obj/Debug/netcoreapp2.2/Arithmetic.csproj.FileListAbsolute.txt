@@ -1,0 +1,11 @@
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\Arithmetic.deps.json
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\Arithmetic.runtimeconfig.json
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\Arithmetic.runtimeconfig.dev.json
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\Arithmetic.dll
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\Arithmetic.pdb
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.csprojAssemblyReference.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.csproj.CoreCompileInputs.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.AssemblyInfoInputs.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.AssemblyInfo.cs
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.dll
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\Arithmetic.pdb

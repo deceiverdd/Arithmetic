@@ -1,0 +1,14 @@
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.exe
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.deps.json
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.runtimeconfig.json
+D:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.runtimeconfig.dev.json
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.dll
+d:\DD\work\C#Project\Arithmetic\bin\Debug\netcoreapp2.2\win10-x64\Arithmetic.pdb
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.csprojAssemblyReference.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.csproj.CoreCompileInputs.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.AssemblyInfoInputs.cache
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.AssemblyInfo.cs
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.dll
+d:\DD\work\C#Project\Arithmetic\obj\Debug\netcoreapp2.2\win10-x64\Arithmetic.pdb
